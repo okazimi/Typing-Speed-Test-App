@@ -13,7 +13,7 @@ word = r.get_random_word()
 # INITIALIZE NUMBER OF CORRECT WORDS TYPED
 words_count = 0
 
-
+# HOME SCREEN
 def home_screen():
     # REFERENCE GLOBAL VARIABLE
     global home_window
