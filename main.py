@@ -77,7 +77,7 @@ def game():
             # CLEAR ENTRY BOX
             entry.delete(0, END)
         # CHECK IF USER HAS COMPLETED TEST
-        if words_count == 3:
+        if words_count == 20:
             # GET END TIME
             end = timer()
             # CREATE POP-UP WINDOW TO INFORM USER OF RESULTS
